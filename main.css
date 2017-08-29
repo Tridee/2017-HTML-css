@@ -1,12 +1,7 @@
-h1 {
-color: red;
-}
+div
+{
+    border: 1px solid red;
+    padding: 10px;
+    margin: 20px
 
-h2  {
-    color: blue;
-}
-
-div {
-    border: 2px dashed black;
-    background-color: pink;
 }
