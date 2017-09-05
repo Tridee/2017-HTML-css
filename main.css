@@ -1,12 +1,27 @@
-h1 {
-color: red;
-}
-
-h2  {
+/* unvisited link */
+a:link {
     color: blue;
+    text-decoration: none;
 }
 
-div {
+/* visited link */
+a:visited {
+    color: purple;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+    font-size: 15px;
+}
+
+/* selected link */
+a:active {
+    color: lightpink;
+    text-decoration: none;
+}
+
+[href] {
     border: 2px dashed black;
-    background-color: pink;
 }
