@@ -1,27 +1,19 @@
-/* unvisited link */
-a:link {
-    color: blue;
-    text-decoration: none;
+li:nth-child(even) {
+
+color: thistle;
+
 }
 
-/* visited link */
-a:visited {
+li:nth-child(odd) {
+
     color: purple;
-    text-decoration: none;
+
 }
 
-/* mouse over link */
-a:hover {
-    color: hotpink;
-    font-size: 15px;
-}
 
-/* selected link */
-a:active {
-    color: lightpink;
-    text-decoration: none;
-}
-
-[href] {
+div {
     border: 2px dashed black;
+    background-color: mistyrose;
+    width: 200px;
+
 }
