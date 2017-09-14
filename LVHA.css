@@ -1,0 +1,19 @@
+a:link {
+    color: blue;
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    font-weight: bold;
+    text-decoration: none;
+    color: hotpink;
+}
+
+a:active {
+    color: deeppink
+}
+
+.text {
+    font-family: sans-serif;
+}
