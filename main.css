@@ -1,25 +1,16 @@
-html {
-    background-color: #00539f;
+
+.girl {
+    border: 2px solid purple;
+    background-color: pink;
+    height: 100px;
+    width: 100px;
 }
 
-body {
-    width: 60%;
-    margin: 0 auto;
-    background-color: #00C957;
-    border: 5px solid black;
-}
+#boy {
 
-img {
-    display: block;
-    margin: 0 auto;
-    border-radius: 100%;
-    border: 10px ridge gold;
-}
+    border: 2px solid black;
+    background-color: deepskyblue;
+    height: 100px;
+    width: 100px;
 
-#primary {
-    color: #0266C8;
-}
-
-#secondary {
-    color: #F90101;
 }
