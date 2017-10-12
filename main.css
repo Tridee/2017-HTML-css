@@ -1,16 +1,26 @@
+div, #left, #right, p
 
-.girl {
-    border: 2px solid purple;
+div {
+
+    border: 2px dashed black;
     background-color: pink;
-    height: 100px;
-    width: 100px;
+
 }
 
-#boy {
 
-    border: 2px solid black;
-    background-color: deepskyblue;
-    height: 100px;
-    width: 100px;
+#left {
+
+    float: left;
+
+}
+
+
+#right {
+
+    float: right;
+}
+
+p {
+color: purple;
 
 }
